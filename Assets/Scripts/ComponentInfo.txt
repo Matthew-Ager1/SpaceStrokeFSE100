@@ -1,0 +1,2 @@
+All Components Need an Update() function
+All Components Need reference to an owner. An owner is the GameObject whos data is affected by the component.
